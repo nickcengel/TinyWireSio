@@ -1,0 +1,11 @@
+{
+"name": "TinyWireSio",
+"frameworks": "Arduino",
+"keywords": "I2C, TinyWire, TinyWireS, Attiny",
+"description": "I2C Slave for Attiny",
+"repository":
+{
+    "type": "git",
+    "url": "https://github.com/PaulStoffregen/OneWire"
+}
+}
